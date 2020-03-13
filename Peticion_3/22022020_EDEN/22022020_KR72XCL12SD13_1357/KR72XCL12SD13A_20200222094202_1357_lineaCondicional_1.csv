@@ -1,0 +1,24 @@
+etiqueta;acumulado;frame;tiempo;
+particular;1.0;54200.0;1626
+taxi;1.0;55733.3333333;1672
+particular;2.0;294066.666667;8822
+particular;3.0;369300.0;11079
+particular;4.0;376100.0;11283
+taxi;2.0;378133.333333;11344
+
+
+Conteo definitivo;ambos sentidos
+etiqueta;conteo;tiempo;
+peaton;0.0;862.7
+particular;4.0;862.7
+taxi;2.0;862.7
+motociclista;0.0;862.7
+bus;0.0;862.7
+camion;0.0;862.7
+minivan;0.0;862.7
+ciclista;0.0;862.7
+tractomula;0.0;862.7
+scooter;0.0;862.7
+bicitaxi;0.0;862.7
+Fin de archivo;
+AYUDA;manual  ; en ;https://docs.google.com/document/d/1Y2eYLjje2taNnJwVAONLIpsGVm4aj8_jssrNITejFd0/edit?usp=sharing

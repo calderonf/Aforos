@@ -1,0 +1,23 @@
+etiqueta;acumulado;frame;tiempo;
+camion;1.0;67300.0;2019
+camion;2.0;157100.0;4713
+camion;3.0;159966.666667;4799
+ciclista;1.0;271000.0;8130
+taxi;1.0;290400.0;8712
+
+
+Conteo definitivo;ambos sentidos
+etiqueta;conteo;tiempo;
+peaton;0.0;747.25
+particular;0.0;747.25
+taxi;1.0;747.25
+motociclista;0.0;747.25
+bus;0.0;747.25
+camion;3.0;747.25
+minivan;0.0;747.25
+ciclista;1.0;747.25
+tractomula;0.0;747.25
+scooter;0.0;747.25
+bicitaxi;0.0;747.25
+Fin de archivo;
+AYUDA;manual  ; en ;https://docs.google.com/document/d/1Y2eYLjje2taNnJwVAONLIpsGVm4aj8_jssrNITejFd0/edit?usp=sharing

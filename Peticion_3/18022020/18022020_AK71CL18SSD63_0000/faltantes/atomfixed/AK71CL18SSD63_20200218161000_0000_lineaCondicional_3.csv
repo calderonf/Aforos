@@ -1,0 +1,38 @@
+etiqueta;acumulado;frame;tiempo;
+taxi;1.0;3766.66666667;113
+taxi;2.0;17366.6666667;521
+taxi;3.0;26400.0;792
+taxi;4.0;52633.3333333;1579
+bus;1.0;71966.6666667;2159
+taxi;5.0;82033.3333333;2461
+motociclista;1.0;87300.0;2619
+particular;1.0;99033.3333333;2971
+motociclista;2.0;102333.333333;3070
+bus;2.0;107633.333333;3229
+taxi;6.0;141300.0;4239
+bus;3.0;145100.0;4353
+bus;4.0;147066.666667;4412
+taxi;7.0;151566.666667;4547
+particular;2.0;155733.333333;4672
+motociclista;3.0;164866.666667;4946
+camion;1.0;171100.0;5133
+taxi;8.0;173533.333333;5206
+taxi;9.0;185500.0;5565
+motociclista;4.0;186500.0;5595
+
+
+Conteo definitivo;ambos sentidos
+etiqueta;conteo;tiempo;
+peaton;0.0;300.05
+particular;2.0;300.05
+taxi;9.0;300.05
+motociclista;4.0;300.05
+bus;4.0;300.05
+camion;1.0;300.05
+minivan;0.0;300.05
+ciclista;0.0;300.05
+tractomula;0.0;300.05
+scooter;0.0;300.05
+bicitaxi;0.0;300.05
+Fin de archivo;
+AYUDA;manual  ; en ;https://docs.google.com/document/d/1Y2eYLjje2taNnJwVAONLIpsGVm4aj8_jssrNITejFd0/edit?usp=sharing
