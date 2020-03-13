@@ -1,17 +1,23 @@
 etiqueta;acumulado;frame;tiempo;
-taxi;1.0;2666.66666667;80
-particular;1.0;56566.6666667;1697
-particular;2.0;61633.3333333;1849
-particular;3.0;67333.3333333;2020
-particular;4.0;74533.3333333;2236
-taxi;2.0;119000.0;3570
+taxi;1.0;2566.66666667;77
+particular;1.0;56366.6666667;1691
+motociclista;1.0;58133.3333333;1744
+particular;2.0;61500.0;1845
+particular;3.0;67300.0;2019
+particular;4.0;74433.3333333;2233
+motociclista;2.0;85600.0;2568
+taxi;2.0;118833.333333;3565
 camion;1.0;123333.333333;3700
-motociclista;1.0;127333.333333;3820
-motociclista;2.0;129100.0;3873
+motociclista;3.0;127233.333333;3817
+motociclista;4.0;128233.333333;3847
+motociclista;5.0;129000.0;3870
+minivan;1.0;133666.666667;4010
 particular;5.0;133733.333333;4012
-motociclista;3.0;138100.0;4143
-motociclista;4.0;156333.333333;4690
-particular;6.0;183833.333333;5515
+motociclista;6.0;134666.666667;4040
+motociclista;7.0;135266.666667;4058
+motociclista;8.0;137933.333333;4138
+motociclista;9.0;156100.0;4683
+particular;6.0;183733.333333;5512
 
 
 Conteo definitivo;ambos sentidos
@@ -19,10 +25,10 @@ etiqueta;conteo;tiempo;
 peaton;0.0;300.0
 particular;6.0;300.0
 taxi;2.0;300.0
-motociclista;4.0;300.0
+motociclista;9.0;300.0
 bus;0.0;300.0
 camion;1.0;300.0
-minivan;0.0;300.0
+minivan;1.0;300.0
 ciclista;0.0;300.0
 tractomula;0.0;300.0
 scooter;0.0;300.0

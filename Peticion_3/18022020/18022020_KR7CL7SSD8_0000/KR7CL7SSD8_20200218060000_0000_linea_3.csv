@@ -1,5 +1,4 @@
 etiqueta;acumulado;frame;tiempo;
-motociclista;1.0;155966.666667;4679
 bus;1.0;159500.0;4785
 
 
@@ -8,7 +7,7 @@ etiqueta;conteo;tiempo;
 peaton;0.0;300.1
 particular;0.0;300.1
 taxi;0.0;300.1
-motociclista;1.0;300.1
+motociclista;0.0;300.1
 bus;1.0;300.1
 camion;0.0;300.1
 minivan;0.0;300.1
@@ -38,7 +37,7 @@ etiqueta;conteo;tiempo;
 peaton;0.0;300.1
 particular;0.0;300.1
 taxi;0.0;300.1
-motociclista;1.0;300.1
+motociclista;0.0;300.1
 bus;1.0;300.1
 camion;0.0;300.1
 minivan;0.0;300.1
