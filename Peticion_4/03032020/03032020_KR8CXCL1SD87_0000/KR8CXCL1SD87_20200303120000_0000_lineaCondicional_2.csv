@@ -1,0 +1,30 @@
+etiqueta;acumulado;frame;tiempo;
+motociclista;1.0;3433.33333333;103
+peaton;1.0;5466.66666667;164
+camion;1.0;22533.3333333;676
+minivan;1.0;53066.6666667;1592
+peaton;2.0;54900.0;1647
+ciclista;1.0;61600.0;1848
+peaton;3.0;82000.0;2460
+motociclista;2.0;111466.666667;3344
+particular;1.0;122900.0;3687
+peaton;4.0;126933.333333;3808
+taxi;1.0;193566.666667;5807
+peaton;5.0;199933.333333;5998
+
+
+Conteo definitivo;ambos sentidos
+etiqueta;conteo;tiempo;
+peaton;5.0;300.0
+particular;1.0;300.0
+taxi;1.0;300.0
+motociclista;2.0;300.0
+bus;0.0;300.0
+camion;1.0;300.0
+minivan;1.0;300.0
+ciclista;1.0;300.0
+tractomula;0.0;300.0
+scooter;0.0;300.0
+bicitaxi;0.0;300.0
+Fin de archivo;
+AYUDA;manual  ; en ;https://docs.google.com/document/d/1Y2eYLjje2taNnJwVAONLIpsGVm4aj8_jssrNITejFd0/edit?usp=sharing
