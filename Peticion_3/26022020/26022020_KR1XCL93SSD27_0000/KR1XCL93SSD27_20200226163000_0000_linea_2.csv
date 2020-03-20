@@ -1,0 +1,62 @@
+etiqueta;acumulado;frame;tiempo;
+particular;1.0;466.666666667;14
+peaton;1.0;2366.66666667;71
+particular;2.0;8833.33333333;265
+motociclista;1.0;10333.3333333;310
+camion;1.0;54066.6666667;1622
+camion;2.0;57566.6666667;1727
+particular;3.0;88000.0;2640
+particular;4.0;90666.6666667;2720
+motociclista;2.0;120266.666667;3608
+particular;5.0;121700.0;3651
+bus;1.0;142133.333333;4264
+motociclista;3.0;145033.333333;4351
+motociclista;4.0;166300.0;4989
+ciclista;1.0;189100.0;5673
+
+
+Conteo definitivo;ambos sentidos
+etiqueta;conteo;tiempo;
+peaton;1.0;300.1
+particular;5.0;300.1
+taxi;0.0;300.1
+motociclista;4.0;300.1
+bus;1.0;300.1
+camion;2.0;300.1
+minivan;0.0;300.1
+ciclista;1.0;300.1
+tractomula;0.0;300.1
+scooter;0.0;300.1
+bicitaxi;0.0;300.1
+
+
+Conteo definitivo;direccion positiva
+etiqueta;conteo;tiempo;
+peaton;1.0;300.1
+particular;1.0;300.1
+taxi;0.0;300.1
+motociclista;0.0;300.1
+bus;0.0;300.1
+camion;0.0;300.1
+minivan;0.0;300.1
+ciclista;0.0;300.1
+tractomula;0.0;300.1
+scooter;0.0;300.1
+bicitaxi;0.0;300.1
+
+
+Conteo definitivo;direccion negativa
+etiqueta;conteo;tiempo;
+peaton;0.0;300.1
+particular;4.0;300.1
+taxi;0.0;300.1
+motociclista;4.0;300.1
+bus;1.0;300.1
+camion;2.0;300.1
+minivan;0.0;300.1
+ciclista;1.0;300.1
+tractomula;0.0;300.1
+scooter;0.0;300.1
+bicitaxi;0.0;300.1
+Fin de archivo;
+AYUDA;manual  ; en ;https://docs.google.com/document/d/1Y2eYLjje2taNnJwVAONLIpsGVm4aj8_jssrNITejFd0/edit?usp=sharing
