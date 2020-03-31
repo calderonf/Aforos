@@ -1,4 +1,5 @@
 etiqueta;acumulado;frame;tiempo;
+camion;1.0;288500.0;8655
 
 
 Conteo definitivo;ambos sentidos
@@ -8,7 +9,7 @@ particular;0.0;672.05
 taxi;0.0;672.05
 motociclista;0.0;672.05
 bus;0.0;672.05
-camion;0.0;672.05
+camion;1.0;672.05
 minivan;0.0;672.05
 ciclista;0.0;672.05
 tractomula;0.0;672.05

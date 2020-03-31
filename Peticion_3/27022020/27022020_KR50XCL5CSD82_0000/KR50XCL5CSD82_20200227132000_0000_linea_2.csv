@@ -1,31 +1,22 @@
 etiqueta;acumulado;frame;tiempo;
-peaton;1.0;32133.3333333;964
-taxi;1.0;35533.3333333;1066
-peaton;2.0;38566.6666667;1157
-particular;1.0;53633.3333333;1609
-ciclista;1.0;62433.3333333;1873
-ciclista;2.0;62933.3333333;1888
-peaton;3.0;110833.333333;3325
-taxi;2.0;115133.333333;3454
-peaton;4.0;115600.0;3468
-taxi;3.0;136400.0;4092
-peaton;5.0;153966.666667;4619
-ciclista;3.0;154166.666667;4625
-motociclista;1.0;162733.333333;4882
-taxi;4.0;177833.333333;5335
-ciclista;4.0;198366.666667;5951
+peaton;1.0;35500.0;1065
+peaton;2.0;38033.3333333;1141
+peaton;3.0;80400.0;2412
+peaton;4.0;110600.0;3318
+peaton;5.0;115500.0;3465
+peaton;6.0;121666.666667;3650
 
 
 Conteo definitivo;ambos sentidos
 etiqueta;conteo;tiempo;
-peaton;5.0;300.0
-particular;1.0;300.0
-taxi;4.0;300.0
-motociclista;1.0;300.0
+peaton;6.0;300.0
+particular;0.0;300.0
+taxi;0.0;300.0
+motociclista;0.0;300.0
 bus;0.0;300.0
 camion;0.0;300.0
 minivan;0.0;300.0
-ciclista;4.0;300.0
+ciclista;0.0;300.0
 tractomula;0.0;300.0
 scooter;0.0;300.0
 bicitaxi;0.0;300.0
@@ -33,14 +24,14 @@ bicitaxi;0.0;300.0
 
 Conteo definitivo;direccion positiva
 etiqueta;conteo;tiempo;
-peaton;4.0;300.0
-particular;1.0;300.0
-taxi;2.0;300.0
-motociclista;1.0;300.0
+peaton;5.0;300.0
+particular;0.0;300.0
+taxi;0.0;300.0
+motociclista;0.0;300.0
 bus;0.0;300.0
 camion;0.0;300.0
 minivan;0.0;300.0
-ciclista;1.0;300.0
+ciclista;0.0;300.0
 tractomula;0.0;300.0
 scooter;0.0;300.0
 bicitaxi;0.0;300.0
@@ -50,12 +41,12 @@ Conteo definitivo;direccion negativa
 etiqueta;conteo;tiempo;
 peaton;1.0;300.0
 particular;0.0;300.0
-taxi;2.0;300.0
+taxi;0.0;300.0
 motociclista;0.0;300.0
 bus;0.0;300.0
 camion;0.0;300.0
 minivan;0.0;300.0
-ciclista;3.0;300.0
+ciclista;0.0;300.0
 tractomula;0.0;300.0
 scooter;0.0;300.0
 bicitaxi;0.0;300.0

@@ -1,16 +1,40 @@
 etiqueta;acumulado;frame;tiempo;
-particular;1.0;123900.0;3717
-particular;2.0;173566.666667;5207
+particular;1.0;15233.3333333;457
+camion;1.0;18366.6666667;551
+bus;1.0;40100.0;1203
+particular;2.0;42633.3333333;1279
+particular;3.0;50433.3333333;1513
+particular;4.0;51833.3333333;1555
+particular;5.0;61933.3333333;1858
+particular;6.0;69700.0;2091
+particular;7.0;73533.3333333;2206
+particular;8.0;76100.0;2283
+particular;9.0;79100.0;2373
+particular;10.0;81633.3333333;2449
+particular;11.0;82933.3333333;2488
+camion;2.0;84766.6666667;2543
+particular;12.0;85500.0;2565
+taxi;1.0;87366.6666667;2621
+camion;3.0;89833.3333333;2695
+particular;13.0;98733.3333333;2962
+particular;14.0;167233.333333;5017
+particular;15.0;172833.333333;5185
+particular;16.0;184633.333333;5539
+camion;4.0;249366.666667;7481
+particular;17.0;251233.333333;7537
+taxi;2.0;254733.333333;7642
+particular;18.0;258200.0;7746
+bus;2.0;470400.0;14112
 
 
 Conteo definitivo;ambos sentidos
 etiqueta;conteo;tiempo;
 peaton;0.0;746.9
-particular;2.0;746.9
-taxi;0.0;746.9
+particular;18.0;746.9
+taxi;2.0;746.9
 motociclista;0.0;746.9
-bus;0.0;746.9
-camion;0.0;746.9
+bus;2.0;746.9
+camion;4.0;746.9
 minivan;0.0;746.9
 ciclista;0.0;746.9
 tractomula;0.0;746.9
