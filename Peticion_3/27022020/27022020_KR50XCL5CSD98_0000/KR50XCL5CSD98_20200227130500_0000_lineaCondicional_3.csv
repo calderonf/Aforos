@@ -1,16 +1,25 @@
 etiqueta;acumulado;frame;tiempo;
+camion;1.0;10933.3333333;492
+particular;1.0;25888.8888889;1165
+camion;2.0;41977.7777778;1889
+particular;2.0;88711.1111111;3992
+particular;3.0;91711.1111111;4127
+ciclista;1.0;107777.777778;4850
+taxi;1.0;113000.0;5085
+motociclista;1.0;170111.111111;7655
+minivan;1.0;185733.333333;8358
 
 
 Conteo definitivo;ambos sentidos
 etiqueta;conteo;tiempo;
 peaton;0.0;450.0
-particular;0.0;450.0
-taxi;0.0;450.0
-motociclista;0.0;450.0
+particular;3.0;450.0
+taxi;1.0;450.0
+motociclista;1.0;450.0
 bus;0.0;450.0
-camion;0.0;450.0
-minivan;0.0;450.0
-ciclista;0.0;450.0
+camion;2.0;450.0
+minivan;1.0;450.0
+ciclista;1.0;450.0
 tractomula;0.0;450.0
 scooter;0.0;450.0
 bicitaxi;0.0;450.0
