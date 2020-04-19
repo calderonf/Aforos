@@ -1,0 +1,8 @@
+CAM73_20200414120000_1.avi,FPS:1000,Total_Frames:900446,Duracion en seg:900,Duracion en in min:15
+CAM73_20200414121500_2.avi,FPS:1000,Total_Frames:899826,Duracion en seg:899,Duracion en in min:15
+CAM73_20200414122959_3.avi,FPS:1000,Total_Frames:900225,Duracion en seg:900,Duracion en in min:15
+CAM73_20200414124459_4.avi,FPS:1000,Total_Frames:899724,Duracion en seg:899,Duracion en in min:15
+CAM73_20200414125958_5.avi,FPS:1000,Total_Frames:899793,Duracion en seg:899,Duracion en in min:15
+CAM73_20200414131457_6.avi,FPS:1000,Total_Frames:900823,Duracion en seg:900,Duracion en in min:15
+CAM73_20200414132957_7.avi,FPS:1000,Total_Frames:899927,Duracion en seg:899,Duracion en in min:15
+CAM73_20200414134456_8.avi,FPS:1000,Total_Frames:896968,Duracion en seg:896,Duracion en in min:15

@@ -1,0 +1,27 @@
+(lp0
+I1
+aI0
+a(lp1
+(iCounter.linecounter
+selectLine
+p2
+(dp3
+S'archivosalidajpg'
+p4
+S'/monitoreo/Aforos/bicicletas_COVID/kr 27 x 1 de mayo/vista2/CAM73_20200414170000_1_linea_1.jpg'
+p5
+sS'pt2'
+p6
+(I1616
+I642
+tp7
+sS'pt1'
+p8
+(I49
+I416
+tp9
+sS'error'
+p10
+I00
+sbaa(lp11
+a.

@@ -1,0 +1,8 @@
+CAM66_20200414120000_1.avi,FPS:1000,Total_Frames:900510,Duracion en seg:900,Duracion en in min:15
+CAM66_20200414121500_2.avi,FPS:1000,Total_Frames:900552,Duracion en seg:900,Duracion en in min:15
+CAM66_20200414123000_3.avi,FPS:1000,Total_Frames:899345,Duracion en seg:899,Duracion en in min:15
+CAM66_20200414124459_4.avi,FPS:1000,Total_Frames:900509,Duracion en seg:900,Duracion en in min:15
+CAM66_20200414125959_5.avi,FPS:1000,Total_Frames:900036,Duracion en seg:900,Duracion en in min:15
+CAM66_20200414131459_6.avi,FPS:1000,Total_Frames:899423,Duracion en seg:899,Duracion en in min:15
+CAM66_20200414132958_7.avi,FPS:1000,Total_Frames:899948,Duracion en seg:899,Duracion en in min:15
+CAM66_20200414134457_8.avi,FPS:1000,Total_Frames:900353,Duracion en seg:900,Duracion en in min:15

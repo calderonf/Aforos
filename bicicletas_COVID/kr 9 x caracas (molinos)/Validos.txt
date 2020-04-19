@@ -1,0 +1,16 @@
+CAM103_20200414120000_1.avi,FPS:1000,Total_Frames:900418,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414121500_2.avi,FPS:1000,Total_Frames:900369,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414123000_3.avi,FPS:1000,Total_Frames:900592,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414124500_4.avi,FPS:1000,Total_Frames:899957,Duracion en seg:899,Duracion en in min:15
+CAM103_20200414125959_5.avi,FPS:1000,Total_Frames:899616,Duracion en seg:899,Duracion en in min:15
+CAM103_20200414131458_6.avi,FPS:1000,Total_Frames:900759,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414132958_7.avi,FPS:1000,Total_Frames:900008,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414134458_8.avi,FPS:1000,Total_Frames:897221,Duracion en seg:897,Duracion en in min:15
+CAM103_20200414060000_1.avi,FPS:1000,Total_Frames:900404,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414061500_2.avi,FPS:1000,Total_Frames:901126,Duracion en seg:901,Duracion en in min:15
+CAM103_20200414063001_3.avi,FPS:1000,Total_Frames:899952,Duracion en seg:899,Duracion en in min:15
+CAM103_20200414064500_4.avi,FPS:1000,Total_Frames:899222,Duracion en seg:899,Duracion en in min:15
+CAM103_20200414065959_5.avi,FPS:1000,Total_Frames:900423,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414071459_6.avi,FPS:1000,Total_Frames:900006,Duracion en seg:900,Duracion en in min:15
+CAM103_20200414072959_7.avi,FPS:1000,Total_Frames:899619,Duracion en seg:899,Duracion en in min:15
+CAM103_20200414074458_8.avi,FPS:1000,Total_Frames:899225,Duracion en seg:899,Duracion en in min:15
