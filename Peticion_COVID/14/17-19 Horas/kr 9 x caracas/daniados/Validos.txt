@@ -1,3 +1,0 @@
-104 (2020-04-14 17_00_00 - 2020-04-14 19_00_00)_1.avi,FPS:1000,Total_Frames:553950,Duracion en seg:553,Duracion en in min:9
-104 (2020-04-14 17_00_00 - 2020-04-14 19_00_00)_2.avi,FPS:1000,Total_Frames:595965,Duracion en seg:595,Duracion en in min:10
-104 (2020-04-14 17_00_00 - 2020-04-14 19_00_00)_3.avi,FPS:1000,Total_Frames:0,Duracion en seg:0,Duracion en in min:0
