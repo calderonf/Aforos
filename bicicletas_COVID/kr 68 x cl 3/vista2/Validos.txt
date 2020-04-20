@@ -1,0 +1,8 @@
+CAM87_20200414170000_1.avi,FPS:1000,Total_Frames:900455,Duracion en seg:900,Duracion en in min:15
+CAM87_20200414171500_2.avi,FPS:1000,Total_Frames:899734,Duracion en seg:899,Duracion en in min:15
+CAM87_20200414172959_3.avi,FPS:1000,Total_Frames:900428,Duracion en seg:900,Duracion en in min:15
+CAM87_20200414174459_4.avi,FPS:1000,Total_Frames:900326,Duracion en seg:900,Duracion en in min:15
+CAM87_20200414175959_5.avi,FPS:1000,Total_Frames:899536,Duracion en seg:899,Duracion en in min:15
+CAM87_20200414181458_6.avi,FPS:1000,Total_Frames:899756,Duracion en seg:899,Duracion en in min:15
+CAM87_20200414182957_7.avi,FPS:1000,Total_Frames:900480,Duracion en seg:900,Duracion en in min:15
+CAM87_20200414184457_8.avi,FPS:1000,Total_Frames:897030,Duracion en seg:897,Duracion en in min:15

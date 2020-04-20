@@ -1,0 +1,8 @@
+CAM65_20200414170000_1.avi,FPS:1000,Total_Frames:900658,Duracion en seg:900,Duracion en in min:15
+CAM65_20200414171500_2.avi,FPS:1000,Total_Frames:899736,Duracion en seg:899,Duracion en in min:15
+CAM65_20200414172959_3.avi,FPS:1000,Total_Frames:900675,Duracion en seg:900,Duracion en in min:15
+CAM65_20200414174459_4.avi,FPS:1000,Total_Frames:900277,Duracion en seg:900,Duracion en in min:15
+CAM65_20200414175959_5.avi,FPS:1000,Total_Frames:899407,Duracion en seg:899,Duracion en in min:15
+CAM65_20200414181458_6.avi,FPS:1000,Total_Frames:899845,Duracion en seg:899,Duracion en in min:15
+CAM65_20200414182957_7.avi,FPS:1000,Total_Frames:900276,Duracion en seg:900,Duracion en in min:15
+CAM65_20200414184457_8.avi,FPS:1000,Total_Frames:898686,Duracion en seg:898,Duracion en in min:15
