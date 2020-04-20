@@ -1,0 +1,8 @@
+CAM89_20200414170000_1.avi,FPS:1000,Total_Frames:900482,Duracion en seg:900,Duracion en in min:15
+CAM89_20200414171500_2.avi,FPS:1000,Total_Frames:900353,Duracion en seg:900,Duracion en in min:15
+CAM89_20200414173000_3.avi,FPS:1000,Total_Frames:899230,Duracion en seg:899,Duracion en in min:15
+CAM89_20200414174459_4.avi,FPS:1000,Total_Frames:900444,Duracion en seg:900,Duracion en in min:15
+CAM89_20200414175959_5.avi,FPS:1000,Total_Frames:899547,Duracion en seg:899,Duracion en in min:15
+CAM89_20200414181458_6.avi,FPS:1000,Total_Frames:900184,Duracion en seg:900,Duracion en in min:15
+CAM89_20200414182958_7.avi,FPS:1000,Total_Frames:900243,Duracion en seg:900,Duracion en in min:15
+CAM89_20200414184458_8.avi,FPS:1000,Total_Frames:898061,Duracion en seg:898,Duracion en in min:15
