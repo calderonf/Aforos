@@ -1,0 +1,8 @@
+CAM25_20200415170000_1.avi,FPS:1000,Total_Frames:900735,Duracion en seg:900,Duracion en in min:15
+CAM25_20200415171500_2.avi,FPS:1000,Total_Frames:900276,Duracion en seg:900,Duracion en in min:15
+CAM25_20200415173000_3.avi,FPS:1000,Total_Frames:899695,Duracion en seg:899,Duracion en in min:15
+CAM25_20200415174459_4.avi,FPS:1000,Total_Frames:899546,Duracion en seg:899,Duracion en in min:15
+CAM25_20200415175958_5.avi,FPS:1000,Total_Frames:901026,Duracion en seg:901,Duracion en in min:15
+CAM25_20200415181459_6.avi,FPS:1000,Total_Frames:899045,Duracion en seg:899,Duracion en in min:15
+CAM25_20200415182958_7.avi,FPS:1000,Total_Frames:900346,Duracion en seg:900,Duracion en in min:15
+CAM25_20200415184458_8.avi,FPS:1000,Total_Frames:897196,Duracion en seg:897,Duracion en in min:15
