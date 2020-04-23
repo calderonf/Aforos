@@ -1,0 +1,27 @@
+(lp0
+I1
+aI0
+a(lp1
+(iCounter.linecounter
+selectLine
+p2
+(dp3
+S'archivosalidajpg'
+p4
+S'/monitoreo/Aforos/bicicletas_COVID/20200416/kr 68 x cl 44 sur/CAM89_20200416060000_1_linea_1.jpg'
+p5
+sS'pt2'
+p6
+(I884
+I716
+tp7
+sS'pt1'
+p8
+(I91
+I211
+tp9
+sS'error'
+p10
+I00
+sbaa(lp11
+a.
