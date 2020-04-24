@@ -8,17 +8,17 @@ p2
 (dp3
 S'archivosalidajpg'
 p4
-S'/monitoreo/Aforos/bicicletas_COVID/20200416/1demayoXcaracas_kr 27 x 1 de mayo/CAM72_20200416060000_1_linea_1.jpg'
+S'/monitoreo/Aforos/bicicletas_COVID/20200416/kr 27 x 1 de mayo/CAM73_20200416060000_1_linea_1.jpg'
 p5
 sS'pt2'
 p6
-(I929
-I425
+(I1426
+I498
 tp7
 sS'pt1'
 p8
-(I52
-I177
+(I5
+I264
 tp9
 sS'error'
 p10
