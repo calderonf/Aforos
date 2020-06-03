@@ -1,4 +1,4 @@
-FECHA,Calle,Carrera,Movimiento ,Acceso,Salida,Periodo,Peaton,Particular,Taxi,Motociclista,Bus,Camion,Minivan,Ciclista,Tractomula,Scooter,Bicitaxi,
+FECHA,Calle,Carrera,Movimiento ,Acceso,Salida,Periodo,Peaton,Particular,Taxi,Motociclista,Bus,Camion,Minivan,Ciclista,Tractomula,Scooter,Bicitaxi
 26022020,91s,1,SN,Sur,,06:00:00,8,5,3,8,0,0,0,1,0,0,0
 26022020,91s,1,SN,Sur,,06:15:00,23,4,11,13,3,1,0,1,0,0,0
 26022020,91s,1,SN,Sur,,06:30:00,44,4,3,9,0,0,1,7,0,0,0
